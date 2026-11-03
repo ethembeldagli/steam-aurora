@@ -1,0 +1,18 @@
+:root{--bg-solid:#05060f;--bg:#05060f;--text:#e9ebff;--mute:#8b8fb3;--acc:#8b7bff;--acc2:#3ee6ff;
+--font:'Geist',system-ui,sans-serif;--font-display:'Geist',system-ui,sans-serif;--r:12px;--grain:.06;
+--panel:#0b0d1e8c;--pop:#0d1024d9;--input:#ffffff08;--hover:#ffffff0d;--line:#ffffff14;--thumb:#ffffff1f;--ring:#8b7bff40;
+--fx:radial-gradient(40% 35% at 20% 15%,#6d4bff55,transparent 70%),radial-gradient(35% 30% at 80% 10%,#00d4ff40,transparent 70%),radial-gradient(45% 40% at 60% 90%,#ff3dc322,transparent 70%);
+--fx-anim:aurora 40s ease-in-out infinite alternate;
+--h-size:30px;--h-w:650;--h-fill:linear-gradient(110deg,#e9ebff 35%,#b8adff 45%,#7ff3ff 50%,#e9ebff 60%);--h-anim:shine 6s linear infinite;
+--rule:linear-gradient(90deg,transparent,#8b7bff99,#3ee6ff99,transparent);
+--btn-r:10px;--btn-bg:#ffffff0a;--btn-fg:#e9ebff;--btn-border:1px solid #ffffff1a;--btn-bg-h:#ffffff14;--btn-fg-h:#fff;
+--btn-glow:0 0 0 1px #8b7bff80,0 10px 40px -8px #8b7bffaa;--btn-pri:linear-gradient(110deg,#7b61ff,#3ee6ff,#7b61ff);--btn-pri-fg:#05060f}
+:root{--surface-solid:#0e1128;--surface-solid-2:#151938;--surface:#0d1026a6;--surface-2:#ffffff0d;--dock:#0c0f22b3;--hi:#ffffff14;--line-hi:#8b7bff66;--spot:#8b7bff1f;--gap:10px;--rx:18px;--rx-xl:26px;--icon-r:7px;
+--sel:linear-gradient(100deg,#7b61ff,#5a8bff 60%,#3ee6ff);--sel-fg:#fff;--font-mono:ui-monospace,monospace}
+:root{--st-background:5,6,15!important;--st-color-1:11,13,30!important;--st-color-2:19,22,46!important;--st-color-3:14,16,36!important;--st-color-4:16,19,40!important;--st-color-5:34,38,70!important;--st-color-6:30,33,62!important;--st-accent-1:139,123,255!important;--st-accent-2:62,230,255!important;--st-blue:123,97,255!important;--st-blue-hover:150,130,255!important;--st-green:52,211,153!important;--st-green-hover:80,225,170!important;--st-red:255,84,112!important;--st-red-hover:255,110,135!important;--st-yellow:255,196,87!important;--st-yellow-hover:255,210,120!important;--st-border-radius:14px!important}
+:root{--logo-a:"aurora";--logo-b:"·os";--logo-font:600 13px 'Geist',sans-serif;--logo-ls:-.02em;--logo-fill:linear-gradient(90deg,#8b7bff,#3ee6ff,#8b7bff)}
+:root{--nav-tt:lowercase;--nav-ls:0;--nav-size:13.5px;--nav-sel-bg:#ffffff12;--nav-sel-fg:#fff;--nav-sel-shadow:inset 0 0 0 1px #8b7bff55,0 0 24px -6px #8b7bff}
+:root{--store-h1:36px}
+:root{--rail-bg:#0b0d1e66;--cover-r:14px}
+:root{--shelf-size:20px}
+:root{--login-h:32px;--avatar-r:50%;--st-online:#6fd3ff;--st-ingame:#9be15d}
